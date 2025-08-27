@@ -1,2 +1,9 @@
-# C-Submissions
-高専の時の提出物
+# C-Submissions  
+## Hangman  
+プログラミング演習III課題1  
+## Msweeper  
+プログラミング演習III課題2  
+## Robots  
+プログラミング演習III課題3  
+## pipeline  
+コンピュータアーキテクチャ課題
